@@ -10,7 +10,7 @@ import time
 import sys
 
 # Configuration
-BASE_URL = "http://localhost:8000"
+BASE_URL = "http://honeypot-api-blush.vercel.app"
 API_KEY = "guvi-hackathon-secret-key"
 
 # Test data - various scam scenarios
